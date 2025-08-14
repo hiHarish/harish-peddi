@@ -121,9 +121,6 @@ function App() {
                 <Mail size={24} className="text-cyan-400 group-hover:text-cyan-300" />
               </a>
             </div>
-            <div className="mt-16 animate-bounce">
-              <ChevronDown size={32} className="mx-auto text-gray-400" />
-            </div>
           </div>
           <div className="flex justify-center gap-6 mt-8">
   {/* Download Resume Button */}
@@ -143,6 +140,9 @@ function App() {
     💼 Hire Me
   </button>
 </div>
+          <div className="mt-16 animate-bounce">
+              <ChevronDown size={32} className="mx-auto text-gray-400" />
+            </div>
         </div>
       </header>
 
