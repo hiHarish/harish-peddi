@@ -208,7 +208,7 @@ function App() {
         </span>
         <div className="bg-white/5 backdrop-blur-lg p-6 rounded-xl border border-white/10 shadow-lg hover:shadow-fuchsia-500/30 transition-all duration-300">
           <h3 className="text-xl font-semibold text-white">Junior Full Stack Developer</h3>
-          <p className="text-sm text-gray-400">V Media and Advertising — July 2024 – Present</p>
+          <p className="text-sm text-gray-400">V Media and Advertising — July 2025 – Present</p>
           <ul className="list-disc list-inside text-gray-300 mt-3 space-y-1">
             <li>Designed, developed, and maintained MERN stack applications.</li>
             <li>Deployed websites on GoDaddy & Razorhost, managing DNS.</li>
